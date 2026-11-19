@@ -11,6 +11,10 @@ A web-based water/ocean journey.
 
 使用 `WASD` 移動、`Q` 下沉、`E` 上浮、`1–6` 前往景點、`P` 拍照。也可透過側欄的「生物觀察」前往指定物種附近。
 
-完整操作、MotionPad 設定與技術細節見 [軟體規格書](./軟體規格書.md)。
+## MotionPad 硬體
+
+遊戲支援 [MotionPad 官網所介紹的實體感應踏墊](https://motionpad.genius-gh.com/zh-hant)。使用踏墊時，在遊戲內選擇對應的裝置設定，點擊「啟用麥克風」並授予瀏覽器權限。
+
+硬體介紹請見 MotionPad 官網。遊戲內的按格配置、麥克風設定與技術細節請見 [軟體規格書](./軟體規格書.md)。
 
 ![潮下之旅遊戲畫面](./screenshot-01.jpg)
